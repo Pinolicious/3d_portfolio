@@ -200,7 +200,7 @@ import {
         },
       ],
       image: speedtype,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Pinolicious/Speed-Type",
     },
     {
       name: "Portfolio",
@@ -213,7 +213,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Pinolicious/3d_portfolio",
     },
   ];
   

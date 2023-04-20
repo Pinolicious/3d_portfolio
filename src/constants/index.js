@@ -98,26 +98,16 @@ import {
   
   const experiences = [
     {
-      title: "System Analyst",
-      company_name: "Southern Cross Healthcare",
-      icon: southerncross,
-      iconBg: "#383E56",
-      date: "Oct 2010 - Jan 2014",
-      points: [
-        "Provided client support on system operation and troubleshooting.",
-      ],
-    },
-    {
-      title: "System Support Analyst",
-      company_name: "Datacom",
-      icon: datacom,
+      title: "Incident Management",
+      company_name: "timbre digital",
+      icon: timbredigital,
       iconBg: "#E6DEDD",
-      date: "Jan 2014 - Mar 2013",
+      date: "Apr 2021 - Present",
       points: [
-        "Resolved or escalated problem tickets to resolve user issues.",
-        "Diagnosed, troubleshot and resolved network and system problems.",
-        "Investigated system issues and implemented resolutions to reduce downtime.",
-        "Enhanced interfaces to promote better functionality for users.",
+        "Assessed incident priority based upon impact to business and escalated issues as necessary.",
+        "Handled high priority incidents with exceptional poise and composure, making quick decisions in effort to reduce overall impact.",
+        "Communicated regularly with customers concerning alerts and potential issues before they become major issues.",
+        "Carried out day-to-day duties accurately and efficiently",
       ],
     },
     {
@@ -133,17 +123,28 @@ import {
         "Used critical thinking to break down problems, evaluate solutions and make decisions.",
       ],
     },
+
     {
-      title: "Incident Management",
-      company_name: "timbre digital",
-      icon: timbredigital,
+      title: "System Support Analyst",
+      company_name: "Datacom",
+      icon: datacom,
       iconBg: "#E6DEDD",
-      date: "Apr 2021 - Present",
+      date: "Jan 2014 - Mar 2013",
       points: [
-        "Assessed incident priority based upon impact to business and escalated issues as necessary.",
-        "Handled high priority incidents with exceptional poise and composure, making quick decisions in effort to reduce overall impact.",
-        "Communicated regularly with customers concerning alerts and potential issues before they become major issues.",
-        "Carried out day-to-day duties accurately and efficiently",
+        "Resolved or escalated problem tickets to resolve user issues.",
+        "Diagnosed, troubleshot and resolved network and system problems.",
+        "Investigated system issues and implemented resolutions to reduce downtime.",
+        "Enhanced interfaces to promote better functionality for users.",
+      ],
+    },
+    {
+      title: "System Analyst",
+      company_name: "Southern Cross Healthcare",
+      icon: southerncross,
+      iconBg: "#383E56",
+      date: "Oct 2010 - Jan 2014",
+      points: [
+        "Provided client support on system operation and troubleshooting.",
       ],
     },
   ];

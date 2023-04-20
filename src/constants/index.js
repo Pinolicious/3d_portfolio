@@ -187,7 +187,7 @@ import {
         },
       ],
       image: spaceshoot,
-      source_code_link: "https://github.com/Pinolicious/Space-Shooter",
+      source_code_link: "https://github.com/jdpuyat/Space-Shooter",
     },
     {
       name: "Speed typing test",
@@ -200,7 +200,7 @@ import {
         },
       ],
       image: speedtype,
-      source_code_link: "https://github.com/Pinolicious/Speed-Type",
+      source_code_link: "https://github.com/jdpuyat/Speed-Type",
     },
     {
       name: "Portfolio",
@@ -213,7 +213,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/Pinolicious/3d_portfolio",
+      source_code_link: "https://github.com/jdpuyat/3d_portfolio",
     },
   ];
   

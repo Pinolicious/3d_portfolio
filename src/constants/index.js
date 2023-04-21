@@ -129,7 +129,7 @@ import {
       company_name: "Datacom",
       icon: datacom,
       iconBg: "#E6DEDD",
-      date: "Jan 2014 - Mar 2013",
+      date: "Jan 2014 - Mar 2017",
       points: [
         "Resolved or escalated problem tickets to resolve user issues.",
         "Diagnosed, troubleshot and resolved network and system problems.",

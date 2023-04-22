@@ -31,6 +31,7 @@ import linkedin from "./company/linkedin.png"
 import spaceshoot from "./spaceshoot.png";
 import speedtype from "./speedtype.png";
 import portfolio from "./portfolio.png";
+import summarizer from "./summarizer.png";
 
 export {
   logo,
@@ -63,4 +64,5 @@ export {
   spaceshoot,
   speedtype,
   portfolio,
+  summarizer,
 };

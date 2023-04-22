@@ -24,6 +24,7 @@ import {
     spaceshoot,
     speedtype,
     portfolio,
+    summarizer,
     threejs,
   } from "../assets";
   
@@ -215,6 +216,19 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/jdpuyat/3d_portfolio",
+    },
+    {
+      name: "AI Article Summarizer",
+      description:
+        "Website using GPT AI to summarize online articles",
+      tags: [
+        {
+          name: "react",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: summarizer,
+      source_code_link: "https://github.com/jdpuyat/ai_summarizer",
     },
   ];
   

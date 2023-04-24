@@ -91,10 +91,6 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "linkedin",
-      icon: linkedin
-    }
   ];
   
   const experiences = [

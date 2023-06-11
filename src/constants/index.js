@@ -45,7 +45,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Data Analytics",
       icon: web,
     },
     {
@@ -104,7 +104,7 @@ import {
         "Assessed incident priority based upon impact to business and escalated issues as necessary.",
         "Handled high priority incidents with exceptional poise and composure, making quick decisions in effort to reduce overall impact.",
         "Communicated regularly with customers concerning alerts and potential issues before they become major issues.",
-        "Carried out day-to-day duties accurately and efficiently",
+        "Automated day-to-day task cutting down time spent on task by up to 90%.",
       ],
     },
     {
@@ -114,8 +114,8 @@ import {
       iconBg: "#383E56",
       date: "Apr 2017 - Apr 2021",
       points: [
+        "Travelled to setup new international office locations, installing and configure Microsoft Servers and Desktops",
         "Carried out day-to-day duties accurately and efficiently.",
-        "Participated in continuous improvement by generating suggestions, engaging in problem solving activities to support teamwork.",
         "Worked with customers to understand needs and provide excellent service.",
         "Used critical thinking to break down problems, evaluate solutions and make decisions.",
       ],

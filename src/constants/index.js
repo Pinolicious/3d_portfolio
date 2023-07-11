@@ -101,10 +101,11 @@ import {
       iconBg: "#E6DEDD",
       date: "Apr 2021 - Present",
       points: [
-        "Assessed incident priority based upon impact to business and escalated issues as necessary.",
-        "Handled high priority incidents with exceptional poise and composure, making quick decisions in effort to reduce overall impact.",
-        "Communicated regularly with customers concerning alerts and potential issues before they become major issues.",
-        "Automated day-to-day task cutting down time spent on task by up to 90%.",
+        "Automating day-to-day tasks cutting down time spent by up to 90%",
+        "Leveraged data analytics to create insights on ComputeStack resource availability for upcoming project requirements",
+        "Monitoring of performance and reliability of servers and health checks with technologies such as Splunk, Grafana and Icinga",
+        "Handling high priority incidents with exceptional poise and composure, making quick decisions in effort to reduce overall impact",
+        "Communicating regularly with customers concerning alerts and potential issues before they become major issues",
       ],
     },
     {
@@ -114,10 +115,12 @@ import {
       iconBg: "#383E56",
       date: "Apr 2017 - Apr 2021",
       points: [
-        "Travelled to setup new international office locations, installing and configure Microsoft Servers and Desktops",
-        "Carried out day-to-day duties accurately and efficiently.",
-        "Worked with customers to understand needs and provide excellent service.",
-        "Used critical thinking to break down problems, evaluate solutions and make decisions.",
+        "Supported global company of 1,000+ employees",
+        "Travelled to international office locations, commissioning/decommissioning Microsoft Servers and Desktops",
+        "Managed physical and virtual machines through technologies such as vSphere, SCCM, Lansweeper",
+        "Proficient in Microsoft Technologies such as Windows Server, Active Directory, Microsoft Exchange, PowerShell, DNS, DHCP, Group Policy",
+        "Supporting Apple mobile phones and macbooks through Mobile Device Management applications",
+        "Managing voip devices with Cisco Telephony as well as 3cx telephony systems.",
       ],
     },
 

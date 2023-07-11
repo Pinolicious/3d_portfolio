@@ -45,19 +45,19 @@ import {
   
   const services = [
     {
-      title: "Data Analytics",
+      title: "AI & Machine Learning",
       icon: web,
     },
     {
-      title: "Desktop Support",
+      title: "Python Programming",
       icon: mobile,
     },
     {
-      title: "Incident Management",
+      title: "System Administration",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Incident Management",
       icon: creator,
     },
   ];

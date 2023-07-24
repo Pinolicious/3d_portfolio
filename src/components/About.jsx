@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        IT Professional with demonstrated experience in Desktop Support & Incident Management. Currently exploring Python, AI, SQL and data wrangling. I'm a quick learner and collaborate closely with others to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        IT Professional with demonstrated experience in Desktop Support & Incident Management. Currently working on earning my cloud certifications. I'm a quick learner and collaborate closely with others to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
